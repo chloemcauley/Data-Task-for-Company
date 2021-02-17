@@ -16,5 +16,12 @@ From the first task, randomizing a large dataframe was successful and the distri
 
 In the GDPR it says that data should be handled in a manner that does not identify the individual. Therefore, I do not think grouping groups of residents that have less than 20,000 would be necessary. The dataframe contains a mix of residential areas and public spaces, which would need to be further cleaned in order to comply with GDPR. I have cleaned the data by setting the postcodes into a standard UK format which would allow consumers to work with the data easily. I have also grouped the postcodes together to comply with GDPR, to protect individual’s information living in England and Wales.
 
+## Learning Outcomes 
+
+* Generated a large random set of values, grouped the values together and found how frequently the groups occurred. 
+* Was able to visualize the data using a histogram.
+* Worked with real-world postcode data and found methods to best anonymize personal data.
+* Written a small report to communicate my findings.
+
 ## Libraries Used
 Pandas, NumPy, Matplotlib, Seaborn, Random 
