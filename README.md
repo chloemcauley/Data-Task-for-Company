@@ -19,7 +19,7 @@ In the GDPR it says that data should be handled in a manner that does not identi
 ## Learning Outcomes 
 
 * Generated a large random set of values, grouped the values together and found how frequently the groups occurred. 
-* Was able to visualize the data using a histogram.
+* Visualized the data using a histogram.
 * Worked with real-world postcode data and found methods to best anonymize personal data.
 * Written a small report to communicate my findings.
 
